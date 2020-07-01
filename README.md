@@ -2,7 +2,7 @@
 
 Playable characters mod for JA2 (version 0.95 BASIC) - by The_Scorpion
 
-More info over at the [Bear's Pit](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=14663&goto=211939&#msg_211939); Retrieved from the [JA2 Archives](https://storage.rcs-rds.ro/links/4729f8d6-f44b-42b7-aa3e-e0ddc6deead6?path=%2FJA_2%2FMods_v1.13%2FPlayable_Characters_Mod%2FBasic)) and adapted for JA2 Stracciatella.
+More info over at the [Bear's Pit](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=14663&goto=211939&#msg_211939); Retrieved from the [JA2 Archives](https://storage.rcs-rds.ro/links/4729f8d6-f44b-42b7-aa3e-e0ddc6deead6?path=%2FJA_2%2FMods_v1.13%2FPlayable_Characters_Mod%2FBasic) and adapted for JA2 Stracciatella.
 
 ## Installation
 
@@ -10,11 +10,11 @@ Download the contents of this repository, and put in the Stracciatella `mods` di
 
 -------
 
-## Contents of the original README.txt (by The_Scorpion)
+## Contents of the original README.txt
 
 ### Features of the BASIC version
 
-Turned the JA2 characters Darrell, Perko, Maria, Skyrider, Fred Morris, John Kulba, Matt Duncan, Calvin Barkmore and Carl Tercel into playable characters.
+Turned the JA2 characters Darrel, Perko, Maria, Skyrider, Fred Morris, John Kulba, Matt Duncan, Calvin Barkmore and Carl Tercel into playable characters.
 
 All new playable characters have faces, speech and battlesounds, they also have character skills. They're free of charge.
 
@@ -26,9 +26,9 @@ Changes are very un-intrusive as to the integrity of the vanilla story, settings
 
 *John* and *Darrel* will be automatically added to the player's squad. If you don't want them, you can just dismiss them
 
-*Darrel* will only join if a female character is married to the Hicks. Make sure your female character has a path to the place where darrell is walking to.
+*Darrel* will only join if a female character is married to the Hicks. Make sure your female character has a path to the place where Darrel is walking to.
 
-*Perko* can just be recruited, but need an active player input (click on "recruit")
+*Perko* can just be recruited, but need an active player input (click on "recruit").
 
 *Maria*, automatically joins the squad after having met Angel. Like Skyrider, there's some time between the end of the quest and her joining the squad. After having talked to Angel, Maria will leave the leather shop and, once standing on the road, join the player's squad. In that time between end of quest (history log beeps) and her joining, the player can go to the strategic screen if he doesn't want Maria to join the squad.
 
@@ -39,7 +39,7 @@ For testing, he can however join as soon as the mine has started to produce inco
 
 ### Credits
 
-Most contents are taken from UB and JA2 and reworked by me (The_Scorpion)
+Most contents are taken from UB and JA2 and reworked by me (The_Scorpion).
 
-The speech of character 73 was designed and recorded by Khor 1255
+The speech of character 73 was designed and recorded by Khor 1255.
 
