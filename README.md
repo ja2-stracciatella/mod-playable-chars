@@ -6,7 +6,7 @@ More info over at the [Bear's Pit](http://thepit.ja-galaxy-forum.com/index.php?t
 
 ## Installation
 
-Download the contents of this repository, and put in the Stracciatella `mods` directory. Enable the mod with launcher or command line args.
+[Download](https://github.com/ja2-stracciatella/mod-playable-chars/archive/master.zip) the contents of this repository, and put in the Stracciatella `mods` directory. Enable the mod with launcher or command line args.
 
 -------
 
