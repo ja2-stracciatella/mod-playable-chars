@@ -10,7 +10,7 @@ More info over at the [Bear's Pit](http://thepit.ja-galaxy-forum.com/index.php?t
 
 ## Compatibility
 
-This should work on any version JA2:Stracciatella since 0.17.0.
+This should work on any versions of JA2:Stracciatella since 0.17.0.
 
 Some NPC characters, such as Maria, have fixed waypoints at specific spots in the map. It is likely not to work well together with any map mods.
 
