@@ -8,6 +8,12 @@ More info over at the [Bear's Pit](http://thepit.ja-galaxy-forum.com/index.php?t
 
 [Download](https://github.com/ja2-stracciatella/mod-playable-chars/archive/master.zip) the contents of this repository, and put in the Stracciatella `mods` directory. Enable the mod with launcher or command line args.
 
+## Compatibility
+
+This should work on any version JA2:Stracciatella since 0.17.0.
+
+Some NPC characters, such as Maria, have fixed waypoints at specific spots in the map. It is likely not to work well together with any map mods.
+
 -------
 
 ## Contents of the original README.txt
